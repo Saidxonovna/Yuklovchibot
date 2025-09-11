@@ -1,2 +1,3 @@
+# requirements.txt (Correct)
 telethon
-httpx
+yt-dlp
